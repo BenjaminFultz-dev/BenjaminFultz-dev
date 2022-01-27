@@ -36,7 +36,7 @@ I am a full stack developer from Columbus, Ohio, and I am available for freelanc
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun facts: I am a die-hard Cleveland Browns fan, and I always have Night Mode turned on  
+- ⚡ Fun facts: I am a diehard Cleveland Browns fan, and I always have Night Mode turned on  
 
 
 </td><td valign="top" width="50%">
