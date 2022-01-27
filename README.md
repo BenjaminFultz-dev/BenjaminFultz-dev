@@ -18,7 +18,7 @@
 
 
 ### About me...  
-From a child in the age of dial-up internet to a full stack web developer, I have always had a passion for technology and innovation. Throughout the last two decades, I have gained significant experience in areas that combine my interests of creative expression, customer service, and education. This includes the study of History Education at The Ohio State University, numerous leadership positions within the service industry, and extensive efforts creating and performing music. During this time, I discovered the impactful presence technology has in each of these industries, and I found myself inspired to contribute to the ever-growing field of software development. Today, I use my proficiencies in HTML, CSS, JavaScript, Node.js, React.js, and up-to-date Search Engine Optimization techniques to produce solutions for the modern entrepreneur through my freelance web development company, BE Design. I am currently seeking opportunities to employ this knowledge and make meaningful contributions to creative teams and projects in the realm of tech.  
+I am a full stack developer from Columbus, Ohio, and I am available for freelance work and/or full time employment. Web development and the large world of tech are among my biggest passions. I enjoy creativity and the process of building something out of nothing. There is always something new to learn and improve upon, so there is never a dull moment. I take pride in my work, and I enjoy the fulfillment I get when a client sees a final product. When I am not building things, I can most likely be found watching a Cleveland Browns game or working on some sort of audio/video project.
   
 
 <br/>  
@@ -27,10 +27,10 @@ From a child in the age of dial-up internet to a full stack web developer, I hav
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🚀 I’m currently working on a full MERN stack social media app, and a freelance business design project  
+- 🚀 I’m currently working on a MERN stack social media app and a freelance business design project  
   
 
-- 🌱 I’m currently beefing up my algorithm skills  
+- 🌱 I’m currently learning Vue front end framework and relational databases
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
