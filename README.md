@@ -1,6 +1,9 @@
 ## Hello 👋, I'm Benjamin Fultz!  
   
-
+  
+<a href="https://benjaminfultz.netlify.app" target="_blank">
+<img src=https://img.shields.io/badge/-profile-red?&style=for-the-badge&logo= alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/BenjaminFultz-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
